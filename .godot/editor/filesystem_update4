@@ -2,13 +2,13 @@ res://scenes/ui/meta_upgrade_card.tscn
 res://resources/theme/theme.tres
 res://scenes/autoload/screen_transition.gdshader
 res://scenes/components/vial_drop_component.gd
-res://resources/tileset.tres
 res://scenes/ui/vignette.gdshader
-res://resources/upgrades/anvil.tres
 res://resources/meta_upgrades/experience_gain.tres
+res://resources/tileset.tres
 res://resources/meta_upgrades/health_regeneration.tres
 res://scenes/components/hit_flash_component.gdshader
 res://scenes/components/hit_flash_component_material.tres
+res://resources/upgrades/anvil.tres
 res://scenes/ui/meta_menu.tscn
 res://scenes/manager/enemy_manager.tscn
 res://scenes/ability/anvil_ability/anvil_ability.tscn
